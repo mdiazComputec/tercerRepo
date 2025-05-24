@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: Tercer-Repo
+Version: 0.1.0
+Summary: Unpaquete pip simple de saludo
+Home-page: https://github.com/mdiazComputec/tercerRepo
+Author: Martin Diaz
+Author-email: mdiaz@Computec.com
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: summary
